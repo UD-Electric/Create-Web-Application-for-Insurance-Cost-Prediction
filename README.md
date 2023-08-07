@@ -4,7 +4,7 @@ Welcome to the Insurance Cost Prediction Web Application! This project is a web 
 # steps of project :
 ## 1.Data Preprocessing and Model Training:
 The data used for this project was preprocessed and cleaned in the data_cleaning.ipynb notebook. The Multiple Linear Regression model was trained on this cleaned dataset in the model_training.ipynb notebook.
-## 2.Build model:
+## 2.Building machine learning model for web application:
 using multiple linear regression.
 ## 3.Evaluation Metrics:
 The performance of the trained model is evaluated using the Mean Squared Error (MSE) and R-squared metrics. These metrics provide insights into the accuracy and effectiveness of the predictions.
